@@ -1,0 +1,6 @@
+framework module Pods_ExpandableDemo {
+  umbrella header "Pods-ExpandableDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
